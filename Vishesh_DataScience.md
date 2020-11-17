@@ -1,5 +1,5 @@
 # Python
-
+```
 1. Variable
 2. Identifiers
 3. Constants
@@ -20,6 +20,7 @@
 18. Assertions
 19. Exception
 # Data Science
+```
 ```
 DataFrame Manipulation 
 Querying DataFrame
