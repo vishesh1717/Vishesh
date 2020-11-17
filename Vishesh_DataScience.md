@@ -19,13 +19,17 @@
 17. User-defined Modules
 18. Assertions
 19. Exception
+
+```
 # Data Science
 ```
-```
-DataFrame Manipulation 
-Querying DataFrame
-Missing Value Manipulation
-Date Functionality and Merging DataFrame
+Numpy
+Pandas
+SciPy
+Pandas Dataframe
+Data Cleaning
+Visualisation using matplotlib, seaborn, folium
+Data Analysis
 ```
 
 
